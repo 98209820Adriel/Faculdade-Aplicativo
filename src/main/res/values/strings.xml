@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registration Application</string>
+    <string name="Name">Name</string>
+    <string name="Address">Address</string>
+    <string name="Company">Company</string>
+    <string name="Enter"> Enter the name...</string>
+    <string name="EnterAd">Enter the address... </string>
+    <string name="EnterCo">Enter the company... </string>
+    <string name="save">Save</string>
+    <string name="list">List</string>
+</resources>

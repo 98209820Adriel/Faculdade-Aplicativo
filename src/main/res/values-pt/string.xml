@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APlicativo Cadastro</string>
+    <string name="Name">Nome</string>
+    <string name="Address">Endereço</string>
+    <string name="Company">Empresa</string>
+    <string name="Enter"> Digite o nome...</string>
+    <string name="EnterAd">Digite o endereço... </string>
+    <string name="EnterCo">Digite a empresa... </string>
+    <string name="save">Salvar</string>
+    <string name="list">Listar</string>
+</resources>
